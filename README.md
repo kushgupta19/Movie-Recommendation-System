@@ -7,6 +7,7 @@ Link to the web application :- https://movierecommendationkush.herokuapp.com/
 
 I used HTML,CSS,Flask web framework in built in Python to put in on web and hosted it using Heroku.
 
+***
 ### Screenshot
 
 ##### Home page
@@ -17,9 +18,8 @@ I used HTML,CSS,Flask web framework in built in Python to put in on web and host
 
 ![image](https://user-images.githubusercontent.com/59951582/134048429-63879999-e162-4272-98d7-37fc4cfa4d04.png)
 
-
+***
 ### Web Technologies
-
 Html , Css , JavaScript , Bootstrap , Flask
 
 ### Requirements
@@ -61,6 +61,6 @@ Now open your browser and go to this address
 ```
 http://127.0.0.1:8000
 ```
-
+***
 Thank you for visiting my repository.
 
